@@ -1,0 +1,62 @@
+[
+    {
+        "id": "***",
+        "name": "下载后可看",
+        "updateDate": "2017-04-03",
+        "sex": "男",
+        "age": "23",
+        "avatar": "",
+        "birthday": "1993-09",
+        "workYear": "1",
+        "degree": "本科",
+        "isMarried": "保密",
+        "currentArea": "广州 天河区",
+        "homePlace": "株洲",
+        "nature": "",
+        "contact": {
+            "mobile": "****",
+            "email": "***",
+            "name": "***",
+            "tel": ""
+        },
+        "originalFilePath": "group1/M02/A5/A5/wKgGMVii0_-AAP_TAABYfsNRSs825.html",
+        "selfIntroduction": "虽然大学专业不是学的JAVA开发，但是由于本人对JAVA开发比较感兴趣，通过自学和培训学习了JAVA。个人来说比较能吃苦，而且在学习过程中配合组员们一起完成项目，在团队协作方面也是和积极的配合他人一起完成任务。",
+        "workExperience": "2016.09-至今中软国际\n行业:计算机软件 \n职位:培训\n收入:1000元以上/月\n工作职责:主要是学习JAVA开发的知识",
+        "projectExperience": "2016.10-2016.11世界那么大（旅游网站）\n项目简介:这个是在培训期间进行的项目，在项目中我主要负责购票，退票部分。对于这两个部分，在页面呈现我主要是用的JavaScript，CSS，ajax。数据库用的是MySQL技术。最后通过SSH框架来进行整合。\n项目职责:\n\n2016.09-2016.10图书管理系统\n项目简介:本系统主要涉及到对图书馆书目的增加，删除，修改，查询的管理，其次是图书借、还管理和图书信息统计。本系统中还加入了程序运行日志管理。\n项目职责:",
+        "educationExperience": "2012.09-2016.07--长沙学院 物流管理 本科",
+        "languageAbility": "",
+        "skillAbility": "",
+        "trainExperience": "",
+        "jobIntension": {
+            "salary": {
+                "to": "6000",
+                "from": "4001"
+            },
+            "city": [
+                "广州"
+            ],
+            "job_nature": "全职",
+            "state": "应届毕业生",
+            "trade": [
+                "计算机软件"
+            ],
+            "arrival_time": "",
+            "job": [
+                "Java开发工程师"
+            ]
+        },
+        "certification": "",
+        "view_id": "a0002a2nknx2",
+        "down_status": "false",
+        "mobile": "下载后可看",
+        "email": "下载后可看",
+        "tit": "a0002a2nknx2",
+        "school": "长沙学院",
+        "speciality": "物流管理",
+        "Intension_trade": "计算机软件",
+        "Intension_job": "Java开发工程师",
+        "Intension_city": "广州",
+        "Intension_salary": "4001-6000元/月",
+        "state": "应届毕业生"
+    }
+]
